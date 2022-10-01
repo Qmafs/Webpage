@@ -1,0 +1,71 @@
+h1 {
+  background-color:#E4F9F5;
+  font-family: 'Silkscreen', cursive;
+  font-size: 500%;
+  color: #66BFBF
+
+}
+
+h2 {
+  background-color:#E4F9F5;
+  font-family: 'Silkscreen', cursive;
+  font-size:300 %;
+  color: #66BFBF
+}
+
+h3 {
+  background-color:#E4F9F5;
+  font-family: 'Silkscreen', cursive;
+  font-size: 200%;
+  align-content: center;
+
+}
+ul {
+  background-color:#E4F9F5;
+  font-family: 'Silkscreen', cursive;
+  font-size: 200%;
+
+}
+p{
+  font-family: 'Silkscreen', cursive;
+  font-size: 150%;
+  color: #40514E
+}
+
+
+body {
+  background-color: #E4F9F5;
+  text-align: center;
+  font-family: monospace;
+  font-family: 'Sacramento',sans-serif;
+
+
+
+}
+
+
+.top-container{
+  position: relative;
+
+
+}
+
+.top-cloud {
+  left: 450px;
+  top: 50px;
+  position: relative;
+}
+
+.bottom-cloud {
+  position: relative;
+  right: 100px;
+  bottom:300px
+}
+
+.mountain {
+  position: relative;
+  right: 90px;
+
+
+
+}
